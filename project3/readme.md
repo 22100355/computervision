@@ -17,7 +17,8 @@ a.2.1 Blurs an image using the median filter
 a.2.2 in: src, out: dst, val: aperture size(must be odd and greater than 1)
 
 
-• Display 4 windows
+
+Display 4 windows
 
 • The name of window should be • “moon”
 
